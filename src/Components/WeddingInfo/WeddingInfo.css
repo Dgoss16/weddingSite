@@ -1,0 +1,33 @@
+.weddingInfoComponent {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        background-color: rgb(251, 228, 252);
+        height: 90vh;
+}
+
+.weddingInfoTextComponent {
+    margin-top: 90vh;
+}
+
+.weddingInfoPic {
+    height: 30em;
+    width: 30em;
+    border-radius: 20em;
+}
+
+.weddingInfoText {
+    display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+
+}
+
+  .mapLink {
+      color: blue;
+  }

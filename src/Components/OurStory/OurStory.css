@@ -1,0 +1,43 @@
+.ourStoryComponent {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 233, 177);
+    height: 115vh;
+}
+
+.ourStoryPic {
+    height: 30em;
+    width: 30em;
+    border-radius: 20em;
+}
+
+.ourStoryContainer {
+    display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+    align-content: center;
+    margin-top: 25vh;
+
+}
+
+.ourStoryText {
+    font-size: 1.2em;
+    width: 50%;
+    padding: 1.5em 1.5em 1.5em 1.5em;
+    border-radius: 1em;
+    /* opacity: 0.2; */
+}
+
+.ourStoryTextContainer {
+    display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+}

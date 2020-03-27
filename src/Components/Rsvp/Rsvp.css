@@ -1,0 +1,19 @@
+.rsvpComponent {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    background-color:rgb(255, 233, 177);
+    height: 100vh;
+}
+
+.rsvpContainer {
+    font-size: 5em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.footerContainer {
+    display: flex;
+    align-self: center;
+    justify-content: flex-end;
+}

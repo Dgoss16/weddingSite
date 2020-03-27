@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Wendy+One|Anton');
+
+
+.homeHeader {
+    width: 100%;
+    background-color: #222222;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    height: 75px;
+}
+
+.slider {
+    margin: 0vh 0vh 0vh 0vh;
+}
+
+.navbar-inverse {
+    width: 100%;
+}
+
+.navbar-brand {
+    color: #ffffff;
+    font-family: 'Wendy One';
+    margin-top: 9px;
+    font-size: 75px;
+}
+
+
+
+.homeText {
+    margin: -100vh 0vh 0vh 0vh;
+    color: #ffffff;
+    font-size: 100px;
+    font-family: 'Anton', serif;
+    -webkit-text-stroke: 1.5px;
+    -webkit-text-stroke-color: black;;
+}
+
+.homeText2 {
+    margin: 0vh 0vh 0vh 0vh;
+    color: #ffffff;
+    font-size: 30px;
+    font-family: 'Anton', serif;
+    -webkit-text-stroke: 1.5px;
+    -webkit-text-stroke-color: black;
+}
+
+.slide {
+    border-bottom-width: 2px;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+}
+
+.slideShowTextContainer {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+}

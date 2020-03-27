@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Cabin');
+
+
+.copyright {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    font-family: 'Cabin';
+    margin-top: 5px;
+}
+
+.photosLink {
+    color: blue;
+    font-size: 1em;
+}
