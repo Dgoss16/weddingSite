@@ -1,16 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=News+Cycle|Righteous&display=swap');
+
 .registryComponent {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
     align-items: center;
     align-content: flex-end;
-    margin-top: 5vh;
 }
 
 .registryComponentIconsContainer {
     display: flex;
     justify-content: center;
-    align-items: center;
+    /* align-items: center; */
     width: 100%;
     height: 50vh;
     background-color: rgb(251, 228, 252);
@@ -19,6 +20,17 @@
 
 .amazonLogo {
     height: 3em;
+    margin-top: 4em;
+}
+
+.targetLogo {
+    height: 10em;
+    margin-left: 1.5em;
+}
+
+.bedbathbeyondLogo {
+    margin-left: 1.5em;
+    margin-top: 2.5em;
 }
 
 .registryComponentTitleConatiner {
@@ -26,6 +38,7 @@
     justify-content: center;
     width: 100%;
     background-color: rgb(251, 228, 252);
+    font-family: 'Lato', sans-serif;
 
 }
 
@@ -33,7 +46,8 @@
     height: 11em;
 }
 
-.footerContainer {
-    margin-top: 30vh;
+h1 {
+    font-family: 'Righteous', cursive;
 }
+
 

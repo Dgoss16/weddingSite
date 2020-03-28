@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=News+Cycle|Righteous&display=swap');
+
 .weddingInfoComponent {
         display: flex;
         flex-direction: row;
@@ -31,3 +33,13 @@
   .mapLink {
       color: blue;
   }
+
+  .weddingInfoTitle {
+    font-family: 'Righteous', cursive;
+    font-size: 2.4em;
+  }
+
+h4 {
+    font-family: 'News Cycle', sans-serif;
+}
+

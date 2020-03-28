@@ -14,21 +14,19 @@ export default class Home extends Component {
                 <div className='ourStoryContainer'>
                     <img className='ourStoryPic' src={StoryPic}/>
                     <div className='ourStoryTitle'>
-                        <h2 id='ourStory'>Our Story</h2>
+                        <h1 id='ourStory'>Their Story</h1>
                     </div>
                     <div className='ourStoryTextContainer'>
-                            <p className='ourStoryText'>Hannah and Dylan first met when they began working at McDonald's together. They started off with the simple flirting 
-                            which eventually led to a first date to see the movie Dirty Grandpa. Afterwards, their first kiss occurred in the parking lot. Nothing really 
-                            came out of their first date to which they went their separate ways. Fast forward four years. The two are both out of high school and Hannah has 
-                            moved away to Green Bay for college. It was Hannah's 20th birthday and Dylan messaged her to catch up. They spoke for the rest of the night and 
-                            then didn't speak again for another three weeks. Dylan had then decided he wanted to see where things could go. The two kept in contact for 
-                            another two weeks until Dylan built up the courage to finally ask her out to dinner. Hannah was skeptical of intentions at first but soon agreed. 
-                            Dylan then drove from Chippewa Falls to Green Bay to spend the day with Hannah, showing up with flowers. They went out to Lambeau Field and out 
-                            to dinner at Olive Garden. The rest was then history, the two became hooked on each other falling in love more and more day by day. Go forward 
-                            another ten months and Dylan decides to pack up and move to Green Bay to be with Hannah. The following month, Hannah, Dylan, and Hannah's family 
-                            take a trip to Las Vegas, NV, to celebrate Hannah's 21'st birthday. Unknown to Hannah, Dylan has brought along a ring, planning on asking her to 
-                            be with him for the rest of their lives'. On August 9th, 2019, in front of the Bellagio Hotel fountains, Dylan asked Hannah to marry him. They are 
-                            now planning on tying the knot on June 12th, 2021, at the Hickory Hills Golf Course.</p>
+                            <p className='ourStoryText'>Dylan and Hannah first met working at McDonalds in Chippewa Falls, WI. Simple flirting progressed 
+                            into their first date at Oakwood Mall to see Dirty Grandpa. After the movie, they shared their first kiss. They then went their 
+                            separate ways. Fast forward three years, Hannah has moved to Green Bay for college. On Hannah’s 20th birthday, Dylan messaged 
+                            her to catch up. He then decided he wanted to see where things could go. The two kept in contact for two weeks before Dylan 
+                            built up the courage to finally ask her to dinner. Hannah was skeptical at first due to the distance but agreed. They went out 
+                            to Lambeau Field and then Olive Garden. The rest was then history. The two became hooked on each other, falling more in love 
+                            every day. Ten months later, Dylan packed up and moved to Green Bay. The following month Hannah, Dylan, and her family take a 
+                            trip to Las Vegas, NV to celebrate Hannah’s 21st birthday.  Unknown to Hannah, Dylan had brought along a ring and a plan to ask 
+                            her to marry him. On August 9th, 2019, in front of the Bellagio Hotel fountains, Dylan asked Hannah to marry him. They are now 
+                            tying the knot on June 12th, 2021 at Hickory Hills Golf Course.</p>
                     </div>
 
                 </div>

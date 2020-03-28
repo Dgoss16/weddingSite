@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=News+Cycle|Righteous&display=swap');
+
 .ourStoryComponent {
     display: flex;
     flex-direction: row;
@@ -26,11 +28,11 @@
 }
 
 .ourStoryText {
-    font-size: 1.2em;
-    width: 50%;
+    font-size: 1.5em;
+    width: 60%;
     padding: 1.5em 1.5em 1.5em 1.5em;
     border-radius: 1em;
-    /* opacity: 0.2; */
+    font-family: 'News Cycle', sans-serif;
 }
 
 .ourStoryTextContainer {
@@ -40,4 +42,8 @@
 	justify-content: center;
 	align-items: center;
 	align-content: center;
+}
+
+h1 {
+    font-family: 'Righteous', cursive;
 }

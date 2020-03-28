@@ -9,9 +9,7 @@ class Navbar extends Component {
                 <nav>
                     <a href='/#/RSVP'>RSVP</a>
                     <a href=''>|</a>
-                    <a href='/#/'>                    Dylan & Hannah                    </a>
-                    <a href=''>|</a>
-                    <a href='/#/registry'>REGISTRY</a>
+                    <a href='/#/'>                    DYLAN & HANNAH                    </a>
                 </nav>
             </div>
         )

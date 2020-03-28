@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Wendy+One|Anton');
+@import url('https://fonts.googleapis.com/css?family=News+Cycle|Righteous&display=swap');
 
 
 .homeHeader {
@@ -31,7 +31,7 @@
     margin: -100vh 0vh 0vh 0vh;
     color: #ffffff;
     font-size: 100px;
-    font-family: 'Anton', serif;
+    font-family: 'Righteous', cursive;
     -webkit-text-stroke: 1.5px;
     -webkit-text-stroke-color: black;;
 }
@@ -40,7 +40,7 @@
     margin: 0vh 0vh 0vh 0vh;
     color: #ffffff;
     font-size: 30px;
-    font-family: 'Anton', serif;
+    font-family: 'Righteous', cursive;
     -webkit-text-stroke: 1.5px;
     -webkit-text-stroke-color: black;
 }

@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Lobster');
 @import url('https://fonts.googleapis.com/css?family=Cabin');
+@import url('https://fonts.googleapis.com/css?family=News+Cycle|Righteous&display=swap');
 
 .navbar {
     display: flex;
@@ -15,9 +16,9 @@
 }
 
 a {
-    color: rgb(240, 239, 239);
+    color: rgb(5, 0, 5);;
     margin-right: 25px;
     font-size: 25px;
     text-decoration: none;
-    font-family: 'Cabin';
+    font-family: 'Righteous', cursive;
 }

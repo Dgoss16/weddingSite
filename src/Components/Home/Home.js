@@ -4,6 +4,7 @@ import Slider from '../Slideshow/Slider';
 import Navbar from '../Navbar/Navbar';
 import WeddingInfo from '../WeddingInfo/WeddingInfo';
 import OurStory from '../OurStory/OurStory';
+import Registry from '../Registry/Registry';
 import Footer from '../Footer/Footer';
 
 
@@ -30,6 +31,7 @@ export default class Home extends Component {
                     </div>
                         <WeddingInfo></WeddingInfo>
                         <OurStory></OurStory>
+                        <Registry></Registry>
                         <Footer></Footer>
                     </div>
                     </div>

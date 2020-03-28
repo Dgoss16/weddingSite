@@ -13,11 +13,11 @@ export default class Home extends Component {
                 <div className='weddingInfoTextContainer'>
                     <div className='weddingInfoText'>
                         <img className='weddingInfoPic'src={InfoPic}/>
-                        <h2 id='weddingInfo'>Ceremony & Reception</h2>
+                        <p className='weddingInfoTitle'>Ceremony & Reception</p>
                             <h4>1:00 PM</h4>
-                            <h5>Hickory Hills Golf Course</h5>
-                            <h5>E4080 Hickory Rd</h5>
-                            <h5>Eau Claire, WI, 54701</h5>
+                            <h4>Hickory Hills Golf Course</h4>
+                            <h4>E4080 Hickory Rd</h4>
+                            <h4>Eau Claire, WI, 54701</h4>
                             <a className='mapLink' href='http://bit.ly/2uu8JTW' target='_blank'><h5><u>View Map</u></h5></a>
 
                     </div>
