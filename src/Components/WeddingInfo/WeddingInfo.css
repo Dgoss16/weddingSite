@@ -43,3 +43,27 @@ h4 {
     font-family: 'News Cycle', sans-serif;
 }
 
+
+@media (max-width: 520px) {
+    .weddingInfoPic {
+        height: 20em;
+        width: 20em;
+        border-radius: 20em;
+    }   
+    
+    .weddingInfoTitle {
+        font-size: 2em;
+      }
+}
+
+@media (max-width: 369px) {
+    .weddingInfoPic {
+        height: 15em;
+        width: 15em;
+        border-radius: 20em;
+    }   
+    
+    .weddingInfoTitle {
+        font-size: 1.8em;
+      }
+}

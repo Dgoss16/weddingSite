@@ -15,7 +15,7 @@ export default class Home extends Component {
             <div className='registryComponent'>
                 <Navbar/>
                 <div className='registryComponentTitleConatiner'>
-                    <h1 className='title'>Click an image below for places we've registered with:</h1>
+                    <p className='title'>Click an image below for places we've registered with:</p>
                 </div>
 
                 <div className='registryComponentIconsContainer'>

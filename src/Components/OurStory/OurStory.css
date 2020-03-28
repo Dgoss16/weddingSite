@@ -47,3 +47,101 @@
 h1 {
     font-family: 'Righteous', cursive;
 }
+
+@media (max-width: 1475px) {
+    .ourStoryComponent{
+        height: 130vh;
+    }
+}
+
+@media (max-width: 1155px) {
+    .ourStoryComponent{
+        height: 150vh;
+    }
+}
+
+@media (max-width: 993px) {
+    .ourStoryComponent{
+        height: 142vh;
+    }
+}
+
+@media (max-width: 950px) {
+    .ourStoryComponent{
+        height: 148vh;
+    }
+}
+
+@media (max-width: 875px) {
+    .ourStoryComponent{
+        height: 155vh;
+    }
+}
+
+@media (max-width: 805px) {
+    .ourStoryComponent{
+        height: 160vh;
+    }
+}
+
+@media (max-width: 770px) {
+    .ourStoryComponent{
+        height: 170vh;
+    }
+}
+
+@media (max-width: 710px) {
+    .ourStoryComponent{
+        height: 180vh;
+    }
+}
+
+@media (max-width: 661px) {
+    .ourStoryComponent{
+        height: 190vh;
+    }
+}
+
+@media (max-width: 608px) {
+    .ourStoryComponent{
+        height: 200vh;
+    }
+}
+
+@media (max-width: 566px) {
+    .ourStoryComponent{
+        height: 240vh;
+    }
+}
+
+@media (max-width: 520px) {
+    .ourStoryPic {
+        height: 20em;
+        width: 20em;
+        border-radius: 20em;
+    }   
+}
+
+@media (max-width: 450px) {
+    .ourStoryComponent{
+        height: 320vh;
+    }
+}
+
+@media (max-width: 369px) {
+    .ourStoryPic {
+        height: 15em;
+        width: 15em;
+        border-radius: 20em;
+    } 
+    
+    .ourStoryComponent {
+        height: 420vh;
+    }
+}
+
+@media (max-width: 295px) {
+    .ourStoryComponent {
+        height: 440vh;
+    }
+}

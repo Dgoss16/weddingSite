@@ -50,4 +50,191 @@ h1 {
     font-family: 'Righteous', cursive;
 }
 
+.title {
+    font-family: 'Righteous', cursive;
+    font-size: 5em;
+}
 
+
+@media (max-width: 1300px) {
+    .amazonLogo {
+        height: 2.5em;
+        margin-top: 4em;
+    }
+    
+    .targetLogo {
+        height: 8em;
+        margin-left: 1.5em;
+    }
+    
+    .bedbathbeyondLogo {
+        margin-left: 1.5em;
+        margin-top: 2.5em;
+    }
+
+    .title {
+        font-size: 2em;
+    }
+}
+
+@media (max-width: 950px) {
+    .amazonLogo {
+        height: 2.1em;
+        margin-top: 4em;
+    }
+    
+    .targetLogo {
+        height: 7em;
+        margin-left: 1.5em;
+    }
+    
+    .bedbathbeyondLogo {
+        margin-left: 1.5em;
+        margin-top: 2.5em;
+    }
+
+    .title{
+        font-size: 2em;
+    }
+}
+
+@media (max-width: 875px) {
+    .amazonLogo {
+        height: 2.1em;
+        margin-top: 4em;
+    }
+    
+    .targetLogo {
+        height: 7em;
+        margin-left: 1.5em;
+    }
+    
+    .bedbathbeyondLogo {
+        margin-left: 1.5em;
+        margin-top: 2.5em;
+        height: 4em;
+    }
+
+}
+
+@media (max-width: 875px) {
+    .amazonLogo {
+        height: 1.8em;
+        margin-top: 4em;
+    }
+    
+    .targetLogo {
+        height: 6em;
+        margin-left: 1.3em;
+    }
+    
+    .bedbathbeyondLogo {
+        margin-left: 1.3em;
+        margin-top: 2.5em;
+        height: 3em;
+    }
+
+    .title {
+        font-size: 1.8em;
+    }
+
+}
+
+@media (max-width: 710px) {
+    .title {
+        font-size: 1.6em;
+    }
+
+}
+
+@media (max-width: 661px) {
+    .amazonLogo {
+        height: 1.5em;
+        margin-top: 4em;
+    }
+    
+    .targetLogo {
+        height: 5em;
+        margin-left: 1.3em;
+        margin-top: 2em;
+    }
+    
+    .bedbathbeyondLogo {
+        margin-left: 1.3em;
+        margin-top: 2.5em;
+        height: 2.5em;
+    }
+
+}
+
+@media (max-width: 608px) {
+    .title {
+        font-size: 1.4em;
+    }
+
+}
+
+@media (max-width: 566px) {
+    .amazonLogo {
+        height: 1.2em;
+        margin-top: 4em;
+    }
+    
+    .targetLogo {
+        height: 5em;
+        margin-left: 1.3em;
+        margin-top: 1.6em;
+    }
+    
+    .bedbathbeyondLogo {
+        margin-left: 1.3em;
+        margin-top: 2.5em;
+        height: 2.5em;
+    }
+
+}
+
+@media (max-width: 550px) {
+    .amazonLogo {
+        height: 1em;
+        margin-top: 4em;
+    }
+    
+    .targetLogo {
+        height: 4em;
+        margin-left: 1.3em;
+        margin-top: 1.6em;
+    }
+    
+    .bedbathbeyondLogo {
+        margin-left: 1em;
+        margin-top: 2.5em;
+        height: 2.5em;
+    }
+
+}
+
+@media (max-width: 450px) {
+    .amazonLogo {
+        height: 1em;
+        margin-top: 4em;
+    }
+    
+    .targetLogo {
+        height: 3.3em;
+        margin-left: -0.3em;
+        margin-top: 2.2em;
+    }
+    
+    .bedbathbeyondLogo {
+        margin-left: -0.5em;
+        margin-top: 2.9em;
+        height: 2.0em;
+    }
+
+    .title {
+        margin-top: 2em;
+        font-size: 1.0em;
+    }
+
+}
