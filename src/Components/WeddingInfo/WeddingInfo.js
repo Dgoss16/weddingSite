@@ -14,7 +14,7 @@ export default class Home extends Component {
                     <div className='weddingInfoText'>
                         <img className='weddingInfoPic'src={InfoPic}/>
                         <p className='weddingInfoTitle'>Ceremony & Reception</p>
-                            <h4>1:00 PM</h4>
+                            <h4>TBD</h4>
                             <h4>Hickory Hills Golf Course</h4>
                             <h4>E4080 Hickory Rd</h4>
                             <h4>Eau Claire, WI, 54701</h4>
