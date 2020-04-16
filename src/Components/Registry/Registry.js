@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import './Registry.css';
 import Navbar from '../Navbar/Navbar';
-import Footer from '../Footer/Footer'
 import AmazonLogo from '../../Images/amazon-logo-png-5.png';
 import BedBathLogo from '../../Images/bedbathandbeyondLogo.png';
 import TargetLogo from '../../Images/targetLogo.png';
@@ -9,7 +8,7 @@ import TargetLogo from '../../Images/targetLogo.png';
 
 
 
-export default class Home extends Component {
+export default class Registry extends Component {
     render() {
         return (
             <div className='registryComponent'>

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Background from '../../Images/IMG_6382.jpg';
+import Background from '../../Images/IMG_6382-min.jpg';
 
 const SlideOne= (props) => {
     let background = {

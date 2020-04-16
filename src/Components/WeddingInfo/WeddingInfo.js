@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 import './WeddingInfo.css';
-import InfoPic from '../../Images/IMG_6108.jpg';
+import InfoPic from '../../Images/IMG_6108-min.jpg';
 
 
 
 
 
-export default class Home extends Component {
+export default class WeddingInfo extends Component {
     render() {
         return (
             <div className='weddingInfoComponent'>
@@ -28,3 +28,4 @@ export default class Home extends Component {
         )
     }
 }
+

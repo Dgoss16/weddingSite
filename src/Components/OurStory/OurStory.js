@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 import './OurStory.css';
-import StoryPic from '../../Images/IMG_6338.jpg'
+import StoryPic from '../../Images/IMG_6338-min.jpg'
 
 
 
 
 
 
-export default class Home extends Component {
+export default class OurStory extends Component {
     render() {
         return (
             <div className='ourStoryComponent'>
@@ -36,3 +36,4 @@ export default class Home extends Component {
         )
     }
 }
+

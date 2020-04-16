@@ -7,7 +7,7 @@ import CommingSoon from '../../Images/comingSoon.png';
 
 
 
-export default class Home extends Component {
+export default class RSVP extends Component {
     render() {
         return (
             <div className='rsvpComponent'>
@@ -26,3 +26,4 @@ export default class Home extends Component {
         )
     }
 }
+

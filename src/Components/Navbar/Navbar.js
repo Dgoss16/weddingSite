@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './Navbar.css';
-import Registry from '../Registry/Registry';
 
 class Navbar extends Component {
     render() {
